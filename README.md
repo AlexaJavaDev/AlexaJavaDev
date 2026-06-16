@@ -18,36 +18,52 @@
 
 ## 📋 Учебный план
 
-| № | Тема | Подтема | Прогресс |
-|---|------|---------|----------|
-| 1 | **Циклы (базовые)** | for, while, вложенные | `✅ 100/100` |
-| 2 | **Методы строк** | length, charAt, substring, replace, contains, indexOf, startsWith, endsWith, toUpperCase, toLowerCase, trim, repeat, replaceAll | `✅ 200/200` |
-| 3 | **Массивы** | int[], String[], поиск min/max, сумма, произведение, фильтрация, обратный порядок | `✅ 100/100` |
-| 4 | **ООП** | | `🔲 0/700` |
-| | 4.1 | Классы, объекты, поля | 🔲 0/100 |
-| | 4.2 | Методы (void, return, параметры) | 🔲 0/100 |
-| | 4.3 | Конструкторы (по умолчанию, с параметрами, перегрузка) | 🔲 0/100 |
-| | 4.4 | Геттеры и сеттеры | 🔲 0/100 |
-| | 4.5 | Mutable классы | 🔲 0/100 |
-| | 4.6 | Immutable классы | 🔲 0/100 |
-| | 4.7 | Мини-проекты (несколько классов) | 🔲 0/100 |
-| 5 | **Исключения** | | `🔲 0/550` |
-| | 5.1 | ArithmeticException | 🔲 0/50 |
-| | 5.2 | ArrayIndexOutOfBoundsException | 🔲 0/50 |
-| | 5.3 | NumberFormatException | 🔲 0/50 |
-| | 5.4 | NullPointerException | 🔲 0/50 |
-| | 5.5 | IllegalArgumentException | 🔲 0/50 |
-| | 5.6 | StringIndexOutOfBoundsException | 🔲 0/50 |
-| | 5.7 | ClassCastException | 🔲 0/50 |
-| | 5.8 | IOException (базово) | 🔲 0/50 |
-| | 5.9 | Multi-catch (несколько catch) | 🔲 0/50 |
-| | 5.10 | throw, throws, finally | 🔲 0/50 |
-| | 5.11 | Общий Exception | 🔲 0/50 |
-| 6 | **ArrayList** | | 🔲 0/100 |
-| 7 | **HashSet** | | 🔲 0/100 |
-| 8 | **HashMap** | | 🔲 0/100 |
-| 9 | **Scanner** | | 🔲 0/100 |
-| 10 | **Switch-case** | | 🔲 0/100 |
+**1. Циклы (базовые) ✅ 100/100**
+- for, while, вложенные
+
+**2. Методы строк ✅ 200/200**
+- length, charAt, substring, replace, contains, indexOf, startsWith, endsWith, toUpperCase, toLowerCase, trim, repeat, replaceAll
+
+**3. Массивы ✅ 100/100**
+- int[], String[], поиск min/max, сумма, произведение, фильтрация, обратный порядок
+
+---
+
+**4. ООП 🔄 0/700** *(в процессе)*
+- 4.1 Классы, объекты, поля — 🔄 0/100
+- 4.2 Методы (void, return, параметры) — 🔄 0/100
+- 4.3 Конструкторы (по умолчанию, с параметрами, перегрузка) — 🔄 0/100
+- 4.4 Геттеры и сеттеры — 🔄 0/100
+- 4.5 Mutable классы — 🔄 0/100
+- 4.6 Immutable классы — 🔄 0/100
+- 4.7 Мини-проекты (несколько классов) — 🔄 0/100
+
+---
+
+**5. Исключения 🔄 0/550** *(в процессе)*
+- 5.1 ArithmeticException — 🔄 5/50
+- 5.2 ArrayIndexOutOfBoundsException — 🔄 5/50
+- 5.3 NumberFormatException — 🔄 5/50
+- 5.4 NullPointerException — 🔄 0/50
+- 5.5 IllegalArgumentException — 🔄 0/50
+- 5.6 StringIndexOutOfBoundsException — 🔄 0/50
+- 5.7 ClassCastException — 🔄 0/50
+- 5.8 IOException (базово) — 🔄 0/50
+- 5.9 Multi-catch (несколько catch) — 🔄 0/50
+- 5.10 throw, throws, finally — 🔄 0/50
+- 5.11 Общий Exception — 🔄 5/50
+
+---
+
+**6. ArrayList** — 🔲 0/100
+
+**7. HashSet** — 🔲 0/100
+
+**8. HashMap** — 🔲 0/100
+
+**9. Scanner** — 🔲 0/100
+
+**10. Switch-case** — 🔲 0/100
 
 ---
 
@@ -59,7 +75,6 @@
 | 🔄 | В процессе изучения |
 | 🔲 | Ожидает начала |
 | 🎯 | Целевой показатель выполнен |
-| ⏱️ | Время практики |
 
 ---
 
