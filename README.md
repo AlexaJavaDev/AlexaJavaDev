@@ -54,6 +54,13 @@
 
 ---
 
+**6. Stream API** *(ожидают)*
+- 6.1 filter, map, collect — 🔲 0/100
+- 6.2 sorted, distinct, limit, skip — 🔲 0/100
+- 6.3 reduce, count, anyMatch, allMatch — 🔲 0/100
+
+---
+
 **6. ArrayList** — 🔲 0/100
 
 **7. HashSet** — 🔲 0/100
