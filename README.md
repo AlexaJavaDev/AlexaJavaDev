@@ -8,8 +8,8 @@
 
 | Показатель | Значение |
 |------------|----------|
-| **🎯Решено задач** | 600+/2600 |
-| **⏱️Практического времени (с 18.05.2026)** | 160 часов |
+| **🎯Решено задач** | 700+ |
+| **⏱️Практического времени (с 18.05.2026)** | 180 часов |
 | **✅Полностью изученные темы** | Циклы, Методы строк, Массивы |
 | **🔄В процессе изучения** | ООП, Исключения |
 | **📅Ожидают начала** | ArrayList, HashSet, HashMap, Scanner, Switch-case |
@@ -29,33 +29,33 @@
 
 ---
 
-**4. ООП 🔄 136/800** *(в процессе)*  
-**4.1 Классы, объекты, поля, методы**	110/200  
-**4.2 Конструкторы, геттеры, сеттеры** (Всё, что связано с доступом к полям) 26/200  
-**4.3 Mutable + Immutable**	(Изменяемые и неизменяемые классы) 0/200  
-**4.4 Мини-проекты**	(Проекты с несколькими классами) 0/200  
+**4. ООП 🔄 140/500** *(в процессе)*  
+- 4.1 Классы, объекты, поля, методы
+- 4.2 Конструкторы, геттеры, сеттеры
+- 4.3 Mutable + Immutable
+- 4.4 Мини-проекты
 
 ---
 
-**5. Исключения 🔄 20/600** *(в процессе)*
-- 5.1 ArithmeticException — 🔄 5/50
-- 5.2 ArrayIndexOutOfBoundsException — 🔄 5/50
-- 5.3 NumberFormatException — 🔄 5/50
-- 5.4 NullPointerException — 🔄 0/50
-- 5.5 IllegalArgumentException — 🔄 0/50
-- 5.6 StringIndexOutOfBoundsException — 🔄 0/50
-- 5.7 ClassCastException — 🔄 0/50
-- 5.8 IOException (базово) — 🔄 0/50
-- 5.9 Multi-catch (несколько catch) — 🔄 0/50
-- 5.10 throw, throws, finally — 🔄 0/50
-- 5.11 Общий Exception — 🔄 5/100
+**5. Исключения 🔄 45/600**
+- 5.1 ArithmeticException
+- 5.2 ArrayIndexOutOfBoundsException
+- 5.3 NumberFormatException
+- 5.4 NullPointerException
+- 5.5 IllegalArgumentException
+- 5.6 StringIndexOutOfBoundsException
+- 5.7 ClassCastException
+- 5.8 IOException (базово)
+- 5.9 Multi-catch (несколько catch)
+- 5.10 throw, throws, finally
+- 5.11 Общий Exception
 
 ---
 
-**6. Stream API** *(ожидают)*
-- 6.1 filter, map, collect — 🔲 0/100
-- 6.2 sorted, distinct, limit, skip — 🔲 0/100
-- 6.3 reduce, count, anyMatch, allMatch — 🔲 0/100
+**6. Stream API 🔄 0 / 300**
+- 6.1 filter, map, collect
+- 6.2 sorted, distinct, limit, skip
+- 6.3 reduce, count, anyMatch, allMatch
 
 ---
 
@@ -84,16 +84,9 @@
 
 ## Текущие цели
 
-- Закрыть тему **ООП** и **исключения** до конца месяца
-- Начать изучение **коллекций**
-
----
-
-## 📝 Заметки
-
-- Методы строк — закрепляю на практике
-- Массивы — уверенно решаю задачи
-- ООП — пока сложно, но разберусь 💪
+- Закрыть тему **ООП** и **исключения** до конца июля
+- Начать углубленное изучение **Stream API**
+- Потренеровать **Git**
 
 ---
 
