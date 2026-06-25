@@ -59,15 +59,15 @@
 
 ---
 
-**6. ArrayList** — 🔲 6/100
+**7. ArrayList** — 🔲 6/100
 
-**7. HashSet** — 🔲 0/100
+**8. HashSet** — 🔲 0/100
 
-**8. HashMap** — 🔲 0/100
+**9. HashMap** — 🔲 0/100
 
-**9. Scanner** — 🔲 0/100
+**10. Scanner** — 🔲 0/100
 
-**10. Switch-case** — 🔲 0/100
+**11. Switch-case** — 🔲 0/100
 
 ---
 
