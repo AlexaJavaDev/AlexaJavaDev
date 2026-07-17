@@ -52,7 +52,7 @@
 
 | Проект | Описание | Стек | Мой вклад / Что осваиваю |
 |--------|----------|------|--------------------------|
-| [**Evolve-HabitTrackerWeb**](https://github.com/AlexaJavaDev/Evolve-HabitTrackerWeb) | Веб-приложение для отслеживания привычек | Стек: впишу позже | Полноценная веб-разработка |
+| [**Evolve-HabitTrackerWeb**](https://github.com/AlexaJavaDev/Evolve-HabitTrackerWeb) | Веб-приложение для отслеживания привычек | Стек: Java 17+, Spring Boot, Thymeleaf, Bootstrap 5, H2 Database, Maven | Полноценная веб-разработка |
 
 ---
 
